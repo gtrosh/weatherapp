@@ -1,1 +1,0 @@
-This is an initial version of a simple weatherapp that uses an openweathermap.org API.
